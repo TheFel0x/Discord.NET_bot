@@ -1,10 +1,10 @@
+
 # Discord.NET_bot template
 ### how to use:
-* add the following NuGet packages:
-  * Discord.Net 
-  * Microsoft.Extensions.DependencyInjection
-* add token in Program.cs
-* (add commands to /Modules/Commands.cs)
+* add the necessary NuGet packages
+* add token in `Program.cs`
+* (add commands to `Modules/Commands.cs`)
+* (edit `Program.cs` however you want)
 * build
 
 | NuGet package: | from: |
