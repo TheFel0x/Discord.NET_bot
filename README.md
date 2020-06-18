@@ -7,7 +7,7 @@
 * (add commands to /Modules/Commands.cs)
 * build
 
-|NuGet package:|from:|
-|-|-|
-|Discord.Net| https://www.nuget.org/packages/Discord.Net/ |
+| NuGet package: | from: |
+|--|--|
+| Discord.Net | https://www.nuget.org/packages/Discord.Net/ |
 | Microsoft.Extensions.DependencyInjection | https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection/5.0.0-preview.5.20278.1 |
